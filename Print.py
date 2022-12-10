@@ -4,3 +4,5 @@ def Print():
 if __name__ == '__main__':
     Print()
     
+
+print("git study is good")
